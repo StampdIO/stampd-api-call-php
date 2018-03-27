@@ -7,7 +7,7 @@ Visit [stampd.io](https;//stampd.io) to get your API credentials.
 ## Instructions
 
 - Set the variables at the top of the file
-- Run the PHP script
+- Run the PHP script `php apitest.php`
 
 ## Documentation
 
