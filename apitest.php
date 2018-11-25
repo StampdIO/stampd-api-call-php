@@ -73,7 +73,7 @@ if ( is_object( $auth_response ) && property_exists( $auth_response, 'code' ) &&
 	$fields = array(
 		'requestedURL' => '/hash',
 		'force_method' => 'POST', // method can also be forced via a parameter
-		'session_id'   => $session_id, // new param name: sess_id
+		'sess_id'   => $session_id, // new param name: sess_id
 		'blockchain'   => $blockchain,
 		'hash'         => $hash,
 //		'meta_emails'   => $email,

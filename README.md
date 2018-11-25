@@ -11,4 +11,4 @@ Visit [stampd.io](https;//stampd.io) to get your API credentials.
 
 ## Documentation
 
-Read the official documentation [here](https://stampd.io/api_reference/).
+Read the official documentation [here](https://stampd.io/#/api).
